@@ -1,0 +1,4 @@
+# Referenced at /var/www/html/Happy/Flutter/leaveapp/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/armeabi-v7a/AndroidManifest.xml:22
+-keep class com.example.leaveapp.MainActivity { <init>(...); }
+# Referenced at /var/www/html/Happy/Flutter/leaveapp/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/armeabi-v7a/AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
